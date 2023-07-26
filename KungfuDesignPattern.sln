@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KungfuDesignPattern", "KungfuDesignPattern.csproj", "{CD952CC5-AECF-4EDD-ADF7-D7AC2500175C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD952CC5-AECF-4EDD-ADF7-D7AC2500175C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD952CC5-AECF-4EDD-ADF7-D7AC2500175C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD952CC5-AECF-4EDD-ADF7-D7AC2500175C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD952CC5-AECF-4EDD-ADF7-D7AC2500175C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C13A24-65DD-47C0-ABD0-52E03C0F4D66}
+	EndGlobalSection
+EndGlobal
